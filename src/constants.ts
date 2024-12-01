@@ -12,7 +12,7 @@ export const LABELS: Label[] = [
         lang: 'en',
         name: 'Rightwing Propaganda',
         description:
-          'Labels posts with links to foxnews.com, newsmax.com, nypost.com, oann.com, washingtonexaminer.com, theepochtimes.com, theblaze.com, dailywire.com, dailycaller.com, westernjournal.com, nationalreview.com, washingtontimes.com, townhall.com, thegatewaypundit.com, breitbart.com, redstate.com, hannity.com, thefederalist.com, dailysignal.com, pjmedia.com. twitchy.com, wnd.com, lifesitenews.com',
+          'Labels posts with links to foxnews.com, newsmax.com, nypost.com, oann.com, washingtonexaminer.com, theepochtimes.com, dailymail.co.uk, theblaze.com, dailywire.com, dailycaller.com, westernjournal.com, nationalreview.com, washingtontimes.com, townhall.com, thegatewaypundit.com, breitbart.com, redstate.com, hannity.com, thefederalist.com, dailysignal.com, pjmedia.com. twitchy.com, wnd.com, lifesitenews.com',
       },
     ],
   },
@@ -26,6 +26,7 @@ const URL_DOMAINS = [
   'oann.com',
   'washingtonexaminer.com',
   'theepochtimes.com',
+  'dailymail.co.uk'
   'theblaze.com',
   'dailywire.com',
   'dailycaller.com',

@@ -7,40 +7,7 @@ export const LABELS: Label[] = [
     rkey: 'insert-rkey-here',
     identifier: 'earth',
     locales: [
-      { lang: 'en', name: 'Earth 🌎', description: 'Earth'},
-      { lang: 'pt-BR', name: 'Terra 🌎', description: 'Terra'},
-    ]
-  },
-  {
-    rkey: 'insert-rkey-here',
-    identifier: 'fire',
-    locales: [
-      { lang: 'en', name: 'Fire 🔥', description: 'Fire'},
-      { lang: 'pt-BR', name: 'Fogo 🔥', description: 'Fogo'},
-    ]
-  },
-  {
-    rkey: 'insert-rkey-here',
-    identifier: 'air',
-    locales: [
-      { lang: 'en', name: 'Air 💨', description: 'Air'},
-      { lang: 'pt-BR', name: 'Ar 💨', description: 'Ar'},
-    ]
-  },
-  {
-    rkey: 'insert-rkey-here',
-    identifier: 'water',
-    locales: [
-      { lang: 'en', name: 'Water 💧', description: 'Water'},
-      { lang: 'pt-BR', name: 'Água 💧', description: 'Água'},
-    ]
-  },
-  {
-    rkey: 'insert-rkey-here',
-    identifier: 'love',
-    locales: [
-      { lang: 'en', name: 'Love 💞', description: 'Love'},
-      { lang: 'pt-BR', name: 'Amor 💞', description: 'Amor'},
+      { lang: 'en', name: 'Rightwing Propaganda', description: 'Labels posts with links to foxnews.com, newsmax.com, nypost.com, oann.com, washingtonexaminer.com, theepochtimes.com, theblaze.com, dailywire.com, dailycaller.com, westernjournal.com, nationalreview.com, washingtontimes.com, townhall.com, thegatewaypundit.com, breitbart.com, redstate.com, hannity.com, thefederalist.com, dailysignal.com, pjmedia.com. twitchy.com, wnd.com, lifesitenews.com'}
     ]
   },
 ];

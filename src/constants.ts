@@ -1,11 +1,11 @@
 import { Label } from './types.js';
 
-export const DELETE = '3lc7nwys3xz2k';
+export const DELETE = '3lcatikzhso27';
 export const LABEL_LIMIT = 1;
 
 export const LABELS: Label[] = [
   {
-    rkey: '3lc7nwynxac2m',
+    rkey: '3lcatikwpac2x',
     identifier: 'Rightwing Propaganda',
     locales: [
       {

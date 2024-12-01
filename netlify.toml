@@ -1,3 +1,2 @@
-Ini, TOML
 [build]
   command = "curl -fsSL https://bun.sh/install | bash && bun i"

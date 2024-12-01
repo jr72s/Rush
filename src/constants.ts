@@ -26,7 +26,7 @@ const URL_DOMAINS = [
   'oann.com',
   'washingtonexaminer.com',
   'theepochtimes.com',
-  'dailymail.co.uk'
+  'dailymail.co.uk',
   'theblaze.com',
   'dailywire.com',
   'dailycaller.com',
